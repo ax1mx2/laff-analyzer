@@ -1,5 +1,5 @@
 {
-  "name": "php-laff/analazer",
+  "name": "keydev/laff-analyzer",
   "description": "PHP Implementation of the Largest Area Fit First (LAFF) 3D (three dimension) box packing algorithm",
   "license": "MIT",
   "keywords": ["largest area fit first", "box packing algorithm", "packaging", "optimization problems", "three-dimensional packing", "combinatorial problem"],
