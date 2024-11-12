@@ -18,7 +18,7 @@ Implementation of the used algorithm was defined by M. Zahid Gürbüz, Selim Aky
 > To use this library you need PHP in version 8.1+
 
 ```bash
-composer require php-laff/analyzer
+composer require keydev/laff-analyzer
 ```
 
 ## Usage
